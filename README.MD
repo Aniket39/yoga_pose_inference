@@ -290,19 +290,6 @@ We welcome contributions! Whether you're fixing bugs, adding features, or improv
 
 ---
 
-## 📚 Citation
-
-If you use YogAI in your research or project, please cite:
-
-```bibtex
-@software{yogai2024,
-  title={YogAI: Geometry-Based Yoga Pose Classification},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/your-username/yoga-pose-classification}
-}
-```
-
 ---
 
 ## 🙏 Acknowledgements
@@ -313,17 +300,3 @@ This project stands on the shoulders of giants:
 - **[OpenCV](https://opencv.org/)** - Computer vision fundamentals
 - **[Scikit-learn](https://scikit-learn.org/)** - Machine learning toolkit
 - **[Streamlit](https://streamlit.io/)** - Rapid web app development
-
-Special thanks to the open-source community for making projects like this possible.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Made with ❤️ for the Yoga & AI Community**
-
-[Report Bug](https://github.com/your-username/yoga-pose-classification/issues) • [Request Feature](https://github.com/your-username/yoga-pose-classification/issues)
